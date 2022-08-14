@@ -1,4 +1,4 @@
-It# Build and Release Folders
+ItIt# Build and Release Folders
 bin-debug/
 bin-release/
 [Oo]bj/
@@ -18,4 +18,4 @@ bin-release/
 # information for Eclipse / Fla
 sh Builder.
 
-python Bbatti.py
+python Bhatti.py
